@@ -11,5 +11,6 @@ package com.pukejielong;
 public class Client {
     public static void main(String[] args) {
         System.out.println("First Step is OK……");
+        System.out.println("Then …… We need someone join in……");
     }
 }
